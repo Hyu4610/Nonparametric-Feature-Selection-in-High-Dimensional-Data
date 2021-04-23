@@ -3,7 +3,7 @@
 
 The codes in this repository are for the first simulation study (regression problem) to perform feature selection using tensor product kernel as introduced in the paper "A General Framework of Nonparametric Feature Selection in High-Dimensional Data". 
 
-## 2. Setup Requirements}
+## 2. Setup Requirements
 - Matlab </br>
 
 Codes are written in Matlab.
